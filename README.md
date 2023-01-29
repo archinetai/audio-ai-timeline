@@ -1,5 +1,5 @@
-# Audio Generation Models
-Here we will keep track of the latest AI models for audio, starting in 2023! 
+# Audio AI Timeline
+Here we will keep track of the latest AI models for audio generation, starting in 2023! 
 
 ## 2023 
 
