@@ -9,6 +9,8 @@ Here we will keep track of the latest AI models for audio generation, starting i
 
 28.01 - [Noise2Music](https://noise2music.github.io/)
 
+26.01 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/)
+
 27.01 - [RAVE2](https://twitter.com/antoine_caillon/status/1618959533065535491?s=20&t=jMkPWBFuAH19HI9m5Sklmg)
 
 26.01 - [MusicLM: Generating Music From Text](https://google-research.github.io/seanet/musiclm/examples/)
