@@ -2,6 +2,12 @@
 
 Here we will keep track of the latest AI models for waveform based audio generation, starting in 2023!
 
+## 2024
+
+| Date  | Release [Samples]                                                                                                                                                                              | Paper                                            | Code                                                                             | Trained Model                                                                                                                                                       |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------ | -------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 02.01 | [Auffusion: Leveraging the Power of Diffusion and Large Language Models for Text-to-Audio Generation](https://auffusion.github.io/)                                                          | [arXiv](https://arxiv.org/abs/2401.01044)         | [GitHub](https://github.com/happylittlecat2333/Auffusion)                           | [Hugging Face](https://huggingface.co/auffusion/auffusion)                                                                              |
+
 ## 2023
 
 | Date  | Release [Samples]                                                                                                                                                                              | Paper                                            | Code                                                                             | Trained Model                                                                                                                                                       |
